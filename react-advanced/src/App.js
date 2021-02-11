@@ -1,10 +1,10 @@
 import './App.css'
-import Setup from './tutorial/useState/setup/useState-counter'
+import Final from './tutorial/useState/final/useState-array'
 
 function App() {
   return (
     <div className='container'>
-      <Setup />
+      <Final />
     </div>
   )
 }
