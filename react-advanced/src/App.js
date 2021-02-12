@@ -1,10 +1,10 @@
-import './App.css'
-import Final from './tutorial/useState/final/useState-array'
+import './index.css'
+import Setup from './tutorial/useEffect/setup/useEffect-fetch-data'
 
 function App() {
   return (
     <div className='container'>
-      <Final />
+      <Setup />
     </div>
   )
 }
