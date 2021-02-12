@@ -1,5 +1,5 @@
 import './index.css'
-import Setup from './tutorial/useEffect/setup/useEffect-fetch-data'
+import Setup from './tutorial/forms/setup/multiple-inputs'
 
 function App() {
   return (
